@@ -1,0 +1,5 @@
+package com.teratech.scala
+
+{
+  
+}
