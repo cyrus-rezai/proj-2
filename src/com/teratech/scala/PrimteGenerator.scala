@@ -12,6 +12,7 @@ object PrimteGenerator extends App
     
     val s = primeStream(Stream.from(2))
     s.filter(_ < 20).foreach(println)
+    println("Mehrdad Was here.")
     
   
 }
